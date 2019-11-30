@@ -20,6 +20,8 @@ Image retrieval is achieved through low level features that are extracted from t
   * Extraction of feature vectors from this histogram data.
   * Distance measurement between query vector and database vectors for similarity.
   * Result of similar images.
+  
+  ![Image of Flowchart](https://raw.githubusercontent.com/Defcon27/Content-Based-Image-Retrieval-CBIR-using-Image-Feature-Extraction/master/images/flow.jpg)
 
 
 **PROS**
