@@ -22,7 +22,7 @@ Image retrieval is achieved through low level features that are extracted from t
   * Result of similar images.
 
 
-**ADVANTAGES OF HISTOGRAM REFINEMENT METHOD**
+**PROS**
 - Images can be retrieved based on color, contrast and brightness of images.
 - This algorithm is very efficient.
 - It is very good retrieval accuracy.
@@ -33,7 +33,7 @@ Image retrieval is achieved through low level features that are extracted from t
 - Retrieved images can be ranked based on their similarity with query image.
 - Can handle image retrieval in large image databases.
 
-**DISADVANTAGES OF HISTOGRAM REFINEMENT METHOD**
+**CONS**
 - Sometimes different images can have the same histogram.
  Example: Grey pixels concentrated in an image produces a similar histogram to a image in the same number grey pixels are distributed randomly.
 - Similarity measurement and image retrieval perform two times, so it increases calculations and overhead.
