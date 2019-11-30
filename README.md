@@ -38,3 +38,9 @@ Image retrieval is achieved through low level features that are extracted from t
  Example: Grey pixels concentrated in an image produces a similar histogram to a image in the same number grey pixels are distributed randomly.
 - Similarity measurement and image retrieval perform two times, so it increases calculations and overhead.
 - Feature vector sets sometimes might be insufficient.
+
+
+### NOTE:
+- The format of images used are `BMP images` and this program doesn't function for other image formats.
+-  Images should be natively stored in the `C Drive for Windows`  and for images in other directories , `Path` should be explicitly mentioned.
+- Only the image name can be given as input since the image extension `.bmp` will concatenated automatically
