@@ -1,4 +1,4 @@
-# Content-Based-Image-Retrieval-CBIR-using-Image-Feature-Extraction
+# PIXSYS Content Based Image Retrieval CBIR using Image Feature Extraction
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
 ### This is a Content Based Image Retrieval System(CBIR) where the program takes some input images and extracts the image feature vectors and stores them. When another image is given as a query image to the program it searches for all similar images that are given as input
